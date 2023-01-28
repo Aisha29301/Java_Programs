@@ -14,8 +14,7 @@ Simple Registration form using Java servlet, JDBC and MySQL Database which inser
 
 ## Demo
 
-
-
+![Emp](https://user-images.githubusercontent.com/111597400/215239124-1d787f38-11cf-4ef2-9e95-e3533d8ee7c5.gif)
 
 
 ## Installation
